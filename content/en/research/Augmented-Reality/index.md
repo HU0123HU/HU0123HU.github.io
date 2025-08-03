@@ -1,7 +1,7 @@
 ---
 title: "Augmented Reality Exergame for Promoting Learning Outcomes in Sports"
 summary: "Exergame Design, Augmented Reality, Immersive Learning"
-date: 2023-06-12 
+date: 2023-08-05 
 featured: true
 # 详情页面的 社交按钮图标 不展示 
 share: false

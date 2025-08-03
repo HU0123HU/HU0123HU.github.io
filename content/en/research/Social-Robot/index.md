@@ -1,7 +1,7 @@
 ---
 title: "Social Robot for Hybrid Meeting Engagement"
 summary: "Human-Robot Interaction, Social Presence, Remote Collaboration"
-date: 2023-06-12 
+date: 2023-06-10 
 featured: true
 # 详情页面的 社交按钮图标 不展示 
 share: false

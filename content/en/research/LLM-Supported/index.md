@@ -1,7 +1,7 @@
 ---
 title: "LLM-Supported Creative Project-Based Learning Program"
 summary: "Large Language Models, Creativity Support Tools, Project-Based Learning, Human-AI Collaboration, Educational Technology"
-date: 2023-06-12 
+date: 2023-07-10
 featured: true
 # 详情页面的 社交按钮图标 不展示 
 share: false

@@ -54,9 +54,9 @@ social:
 #  icon_pack: fas
 #  link: https://scholar.google.com/citations?hl=en&user=r_cpud8AAAAJ
   
-- icon: github
-  icon_pack: fab
-  link: https://github.com/HU0123HU
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/HU0123HU
   
 #- icon: instagram
 #  icon_pack: fab

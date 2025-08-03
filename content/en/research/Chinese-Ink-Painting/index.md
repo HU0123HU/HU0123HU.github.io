@@ -1,7 +1,7 @@
 ---
 title: "Chinese Ink Painting-themed Cave Automatic Virtual Environment"
 summary: "CAVE System, Immersive Experience, Digital Heritage, Narrative Space Design"
-date: 2023-06-12 
+date: 2023-07-12 
 featured: true
 # 详情页面的 社交按钮图标 不展示 
 share: false
