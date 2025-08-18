@@ -7,5 +7,8 @@ featured: true
 share: false
 ---
 
-The solar desalination experimental platform features a TRM-PD linear solar simulation transmitter, a solar pyranometer, and several thermal sensors. The solar simulator consists of a hernia lamp light source, heat dissipation fans, and a corresponding control system, which together can simulate sunlight for conducting low-power solar experiments in the laboratory. This setup is ideal for testing photovoltaic (PV) modules and various solar-centered energy applications, including solar desalination devices. After being activated for 1 minute, the radiation flux stabilizes within a range of ±3%, and the flux can be adjusted between 200 and 1000 W/m².
+This project, developed as my Master’s thesis, explores a cross-scale gamified learning system that helps middle school students grasp abstract circuit concepts through tangible and embodied interaction. The system integrates two modules: a macro-level tabletop interface for real-world circuit construction guided by projection animations, and a micro-level first-person game where students use body movements to simulate the behavior of electrons in LC resonant circuits. By combining physical manipulation with immersive gameplay and symbolic feedback, the study demonstrates how learners can better connect operational, experiential, and theoretical knowledge. Results from classroom-based experiments show significant improvements in students’ conceptual understanding, engagement, and cognitive integration across scales.
+Publication:
+Hu, Q. & Li, Z. (2025). “‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game.” Accepted for HCII 2025 (Late Breaking track), to be published in Springer CCIS Proceedings.
+Full version in preparation for CHI 2026 submission.
 
