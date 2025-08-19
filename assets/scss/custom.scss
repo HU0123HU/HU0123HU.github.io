@@ -235,3 +235,7 @@ $text-primary-color: #ff3860;
   .section-card p { color:#d1d5db; }
   .pub-item, .tight-list li { color:#c5c5c5; }
 }
+/* 隐藏底部社交分享按钮 */
+.share, .page-footer .share, .content .share { 
+  display: none !important; 
+}
