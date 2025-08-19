@@ -78,3 +78,51 @@ $text-primary-color: #ff3860;
   }
 
 }
+/* ====== Project page: sections & publications ====== */
+
+.section-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 18px;
+  background: #fafafa;
+  margin: 1.25rem 0;
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin: 0 0 .65rem 0;
+}
+
+.subtle { color: #6b7280; }
+.small  { font-size: 14px; }
+.tiny   { font-size: 13px; }
+
+.divider { height: 1px; background: #ececec; margin: .75rem 0; border: 0; }
+
+.tight-list { margin: .25rem 0 0 1.2rem; }
+.tight-list li { margin: .25rem 0; }
+
+/* publications */
+.pub-item   { font-size: 14px; line-height: 1.6; margin: .2rem 0 .6rem 0; }
+.pub-authors{ font-weight: 600; }
+.pub-venue  { font-style: italic; }
+
+/* figure note */
+.fig-note { font-size: 13px; color: #6b7280; margin-top: .35rem; }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .section-card { background: #111827; border-color: #374151; }
+  .subtle, .fig-note { color: #9ca3af; }
+  .divider { background: #2b2f36; }
+}
+
+/* 手机端微调：让卡片更紧凑 */
+@media (max-width: 780px) {
+  .section-card { padding: 16px; }
+  .pub-item { font-size: 13.5px; }
+}
