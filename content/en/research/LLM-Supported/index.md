@@ -1,11 +1,47 @@
 ---
-title: "LLM-Supported Creative Project-Based Learning Program"
-summary: "Large Language Models, Creativity Support Tools, Project-Based Learning, Human-AI Collaboration, Educational Technology"
-date: 2023-07-10
+title: "LLM-Supported Creative Project-Based Learning"
+summary: "Large Language Models in Education, Creativity Support, Project-Based Learning, Human–AI Collaboration"
+date: 2024-03-22
 featured: true
-# 详情页面的 社交按钮图标 不展示 
 share: false
+image:
+  src: "llm-figure.png"   # 列表页封面；用你的实际文件名
 ---
 
-The solar desalination experimental platform features a TRM-PD linear solar simulation transmitter, a solar pyranometer, and several thermal sensors. The solar simulator consists of a hernia lamp light source, heat dissipation fans, and a corresponding control system, which together can simulate sunlight for conducting low-power solar experiments in the laboratory. This setup is ideal for testing photovoltaic (PV) modules and various solar-centered energy applications, including solar desalination devices. After being activated for 1 minute, the radiation flux stabilizes within a range of ±3%, and the flux can be adjusted between 200 and 1000 W/m².
+<div class="section-card">
+  <div class="section-title">🧩 Overview</div>
+  <p>
+    This research explores how Large Language Models (LLMs), such as ChatGPT, can support middle school students’ creativity during project-based learning (PBL). 
+    Through an observational study and a week-long instructional experiment with 31 students, the study identified five design considerations and proposed a novel LLM-empowered PBL program.
+    Results show that LLMs can support all phases of PBL—from idea discovery to final presentation—by boosting creative self-efficacy and providing personalized, real-time feedback. 
+    The study also discusses students’ ambivalent perceptions of LLMs and highlights design implications for integrating AI tools into educational settings.
+  </p>
+</div>
 
+<div class="section-card">
+  <div class="section-title">📚 Publication</div>
+  <p class="pub-item">
+    Zha, S.; Qiao, Y.; <span class="pub-authors">Hu, Q.</span>; Li, Z.; Gong, J.; Xu, Y. 
+    “Designing Child-Centric AI Learning Environments: Insights from an LLM-powered Creative Project-Based Learning Study.”
+    <span class="subtle">Accepted for publication (in press) in</span> <span class="pub-venue">International Journal of Human-Computer Studies (IJHCS)</span>.
+  </p>
+  <p class="pub-item subtle">
+    Preprint available at arXiv: <a href="https://doi.org/10.48550/arXiv.2403.16159" target="_blank">https://doi.org/10.48550/arXiv.2403.16159</a>.
+  </p>
+</div>
+
+<div class="section-card">
+  <div class="section-title">🎯 Contributions</div>
+  <ul class="tight-list">
+    <li>Conducted user interviews and thematic analysis</li>
+    <li>Co-designed the 48-hour instructional program</li>
+    <li>Supported on-site study coordination and data collection</li>
+    <li>Assisted in manuscript writing and figure design</li>
+  </ul>
+</div>
+
+<div class="section-card">
+  <div class="section-title">🎬 Media</div>
+  <img src="llm-figure.png" alt="LLM-supported PBL: classroom activity and framework figure">
+  <div class="fig-note">Classroom activity (left) and synthesized framework of ambivalent perspectives on LLMs in creativity (right).</div>
+</div>
