@@ -12,6 +12,9 @@ appearance:
   font_size: M
 
 # SEO
+params:
+  sharing: false
+  share: false
 
 marketing:
   seo:
