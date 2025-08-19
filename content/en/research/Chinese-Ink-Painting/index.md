@@ -19,12 +19,6 @@ image:
 </div>
 
 <div class="section-card">
-  <div class="section-title">🎬 Media</div>
-  <img src="featured.gif" alt="Immersive ink-wash CAVE demo">
-  <div class="fig-note">Animated preview of the ink-wash CAVE experience.</div>
-</div>
-
-<div class="section-card">
   <div class="section-title">🖼️ Gallery</div>
   <img src="Frame 44.png" alt="System principle and installation site photo">
   <div class="fig-note">Left: System principle with Kinect-based head tracking. Right: Installation site photo.</div>
