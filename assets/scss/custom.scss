@@ -181,3 +181,57 @@ $text-primary-color: #ff3860;
   .section-card p { color: #d1d5db; }
   .pub-item, .tight-list li { color: #c5c5c5; }
 }
+/* ====== Section 标题统一 ====== */
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-weight: 700;
+  font-size: 1.05rem;      /* 统一字号 */
+  margin: 0 0 .65rem 0;
+}
+
+/* ====== Overview 正文（两端对齐，略大于子项） ====== */
+.section-card p {
+  text-align: justify;
+  font-size: 15px;         /* 比子项(14px)略大 */
+  line-height: 1.65;
+  margin-bottom: 0.8rem;
+  color: #333;
+}
+
+/* ====== Publication 与 Contributions 的子内容 ====== */
+.pub-item,
+.tight-list li {
+  font-size: 14px;         /* 与 Publication 保持一致 */
+  line-height: 1.6;
+  color: #444;
+  margin: .3rem 0;
+}
+
+/* Contributions 列表左对齐，不额外缩进 */
+.tight-list {
+  margin: 0;               /* 去外边距 */
+  padding-left: 0;         /* 去默认缩进 */
+  list-style-position: inside; /* 圆点与文本对齐 */
+}
+
+/* 卡片通用（若之前没有，可以保留；有的话可忽略） */
+.section-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 18px;
+  background: #fafafa;
+  margin: 1.25rem 0;
+}
+
+.divider { height:1px; background:#ececec; margin:.75rem 0; border:0; }
+.subtle { color:#6b7280; } .small { font-size:14px; } .tiny { font-size:13px; }
+.pub-authors { font-weight:600; } .pub-venue { font-style: italic; }
+
+/* 深色模式 */
+@media (prefers-color-scheme: dark) {
+  .section-card { background:#111827; border-color:#374151; }
+  .section-card p { color:#d1d5db; }
+  .pub-item, .tight-list li { color:#c5c5c5; }
+}
