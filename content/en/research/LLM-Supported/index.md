@@ -5,15 +5,15 @@ date: 2024-03-22
 featured: true
 share: false
 image:
-  src: "llm-figure.png"   # 列表页封面；用你的实际文件名
+  src: "llm-figure.png"   # 列表页封面(可换成你的图片名)
 ---
 
 <div class="section-card">
   <div class="section-title">🧩 Overview</div>
   <p>
-    This research explores how Large Language Models (LLMs), such as ChatGPT, can support middle school students’ creativity during project-based learning (PBL). 
+    This research explores how Large Language Models (LLMs), such as ChatGPT, can support middle school students’ creativity during project-based learning (PBL).
     Through an observational study and a week-long instructional experiment with 31 students, the study identified five design considerations and proposed a novel LLM-empowered PBL program.
-    Results show that LLMs can support all phases of PBL—from idea discovery to final presentation—by boosting creative self-efficacy and providing personalized, real-time feedback. 
+    Results show that LLMs can support all phases of PBL—from idea discovery to final presentation—by boosting creative self-efficacy and providing personalized, real-time feedback.
     The study also discusses students’ ambivalent perceptions of LLMs and highlights design implications for integrating AI tools into educational settings.
   </p>
 </div>
@@ -21,12 +21,12 @@ image:
 <div class="section-card">
   <div class="section-title">📚 Publication</div>
   <p class="pub-item">
-    Zha, S.; Qiao, Y.; <span class="pub-authors">Hu, Q.</span>; Li, Z.; Gong, J.; Xu, Y. 
+    Zha, S.; Qiao, Y.; <span class="pub-authors">Hu, Q.</span>; Li, Z.; Gong, J.; Xu, Y.
     “Designing Child-Centric AI Learning Environments: Insights from an LLM-powered Creative Project-Based Learning Study.”
-    <span class="subtle">Accepted for publication (in press) in</span> <span class="pub-venue">International Journal of Human-Computer Studies (IJHCS)</span>.
+    <span class="subtle">Accepted (in press) in</span> <span class="pub-venue">International Journal of Human–Computer Studies (IJHCS)</span>.
   </p>
   <p class="pub-item subtle">
-    Preprint available at arXiv: <a href="https://doi.org/10.48550/arXiv.2403.16159" target="_blank">https://doi.org/10.48550/arXiv.2403.16159</a>.
+    Preprint: <a href="https://doi.org/10.48550/arXiv.2403.16159" target="_blank">https://doi.org/10.48550/arXiv.2403.16159</a>.
   </p>
 </div>
 
@@ -40,8 +40,6 @@ image:
   </ul>
 </div>
 
-<div class="section-card">
-  <div class="section-title">🎬 Media</div>
-  <img src="llm-figure.png" alt="LLM-supported PBL: classroom activity and framework figure">
-  <div class="fig-note">Classroom activity (left) and synthesized framework of ambivalent perspectives on LLMs in creativity (right).</div>
-</div>
+<!-- 直接在最底部插入图片（不使用卡片&无标题） -->
+<img src="llm-figure.png" alt="LLM-supported PBL: classroom activity and framework figure">
+<div class="fig-note">Classroom activity (left) and synthesized framework of ambivalent perspectives on LLMs in creativity (right).</div>
