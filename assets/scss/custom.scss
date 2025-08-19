@@ -126,3 +126,27 @@ $text-primary-color: #ff3860;
   .section-card { padding: 16px; }
   .pub-item { font-size: 13.5px; }
 }
+/* ====== Overview 正文样式 ====== */
+.section-card p {
+  text-align: justify;        /* 两端对齐 */
+  font-size: 15px;            /* 略小于默认正文 */
+  line-height: 1.65;
+  margin-bottom: 0.8rem;
+  color: #333;                /* 比黑色淡一些，更柔和 */
+}
+
+/* ====== Publication 样式 ====== */
+.pub-item {
+  font-size: 14px;            /* 比 Overview 小一丢丢 */
+  line-height: 1.6;
+  margin: .2rem 0 .6rem 0;
+  color: #444;                /* 比 Overview 再淡一点 */
+}
+.pub-authors { font-weight: 600; }
+.pub-venue   { font-style: italic; }
+
+/* 深色模式优化 */
+@media (prefers-color-scheme: dark) {
+  .section-card p { color: #d1d5db; }  /* 淡灰色 */
+  .pub-item      { color: #c5c5c5; }
+}
