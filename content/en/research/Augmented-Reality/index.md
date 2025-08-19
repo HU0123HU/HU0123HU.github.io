@@ -1,11 +1,25 @@
----
-title: "Augmented Reality Exergame for Promoting Learning Outcomes in Sports"
-summary: "Exergame Design, Augmented Reality, Immersive Learning"
-date: 2023-08-05 
-featured: true
-# 详情页面的 社交按钮图标 不展示 
-share: false
----
+<div class="section-card">
+  <div class="section-title">🧩 Overview</div>
+  <p>
+    SmashMate is an AR-based badminton training system built on Microsoft HoloLens 2. 
+    By integrating a virtual coach and shadow training method, it offers an immersive experience 
+    for improving footwork precision. The system combines exergame interaction and real-time feedback 
+    to enhance engagement and training outcomes, validated through experimental studies.
+  </p>
+</div>
 
-The solar desalination experimental platform features a TRM-PD linear solar simulation transmitter, a solar pyranometer, and several thermal sensors. The solar simulator consists of a hernia lamp light source, heat dissipation fans, and a corresponding control system, which together can simulate sunlight for conducting low-power solar experiments in the laboratory. This setup is ideal for testing photovoltaic (PV) modules and various solar-centered energy applications, including solar desalination devices. After being activated for 1 minute, the radiation flux stabilizes within a range of ±3%, and the flux can be adjusted between 200 and 1000 W/m².
+<div class="section-card">
+  <div class="section-title">📚 Publication</div>
+  <p class="pub-item subtle">
+    Under review at <span class="pub-venue">International Journal of Human–Computer Interaction (IJHCI)</span>.
+  </p>
+</div>
 
+<div class="section-card">
+  <div class="section-title">🎯 Contributions</div>
+  <ul class="tight-list">
+    <li>Designed interaction flow and exergame feedback mechanics</li>
+    <li>Developed AR training environment using Unity and HoloLens 2</li>
+    <li>Conducted user testing and analyzed performance data</li>
+  </ul>
+</div>
