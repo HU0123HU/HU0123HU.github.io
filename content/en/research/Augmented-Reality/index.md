@@ -1,10 +1,22 @@
+---
+title: "Augmented Reality Exergame for Promoting Learning Outcomes in Sports"
+summary: "Exergame Design, Augmented Reality, Immersive Learning"
+date: 2023-08-05
+featured: true
+share: false
+# 不要加 draft:true
+# 建议显式指定卡片封面（你文件夹里已有 featured.gif 就填它）
+image:
+  src: "featured.gif"
+---
+
 <div class="section-card">
   <div class="section-title">🧩 Overview</div>
   <p>
-    SmashMate is an AR-based badminton training system built on Microsoft HoloLens 2. 
-    By integrating a virtual coach and shadow training method, it offers an immersive experience 
-    for improving footwork precision. The system combines exergame interaction and real-time feedback 
-    to enhance engagement and training outcomes, validated through experimental studies.
+    SmashMate is an AR-based badminton training system built on Microsoft HoloLens 2.
+    By integrating a virtual coach and shadow training method, it offers an immersive experience
+    for improving footwork precision. The system combines exergame interaction and real-time
+    feedback to enhance engagement and training outcomes, validated through experimental studies.
   </p>
 </div>
 
