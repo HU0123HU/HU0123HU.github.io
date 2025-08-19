@@ -5,7 +5,7 @@ date: 2023-08-04
 featured: true
 share: false
 image:
-  src: "featured.gif"   # 列表页封面
+  src: "640.gif"   # 列表页封面
 ---
 
 <div class="section-card">
