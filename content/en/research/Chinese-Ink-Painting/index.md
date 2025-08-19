@@ -19,8 +19,6 @@ image:
 
   <!-- 把原来 Gallery 里的图片直接放到同一块里 -->
   <img src="Frame 44.png" alt="System principle and installation site photo">
-  <div class="fig-note">Left: System principle with Kinect-based head tracking. Right: Installation site photo.</div>
-</div>
 
 <div class="section-card">
   <div class="section-title">🏆 Awards</div>
