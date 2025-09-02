@@ -1,10 +1,11 @@
 ---
 title: "Cross-Scale Gamified Learning System for Circuit Education"
 summary: "Game-based Learning, Embodied Interaction, STEM Education, Mixed Reality"
-date: 2023-08-12 
+date: 2023-08-12
 featured: true
-# 详情页面的 社交按钮图标 不展示 
 share: false
+image:
+  src: "2.gif"     # ← 指向你新上传的动图
 ---
 
 <div class="section-card">
