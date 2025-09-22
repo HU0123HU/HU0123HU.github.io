@@ -21,9 +21,10 @@ image:
 <div class="section-card">
   <div class="section-title">📚 Publication</div>
   <p class="pub-item">
-    Zha, S., Qiao, Y., <span class="pub-authors">Hu, Q.</span>, Li, Z., Gong, J., &amp; Xu, Y. (2025). 
-    Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study. 
+    Zha, S., Qiao, Y., <span class="pub-authors">Hu, Q.</span>, Li, Z., Gong, J., &amp; Xu, Y. (2025).
+    Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study.
     <span class="pub-venue">International Journal of Human-Computer Studies</span>, 103602.
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1071581925001594" target="_blank">https://doi.org/10.1016/j.ijhcs.2025.103602</a>
   </p>
 </div>
 
