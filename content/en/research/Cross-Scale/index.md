@@ -5,7 +5,7 @@ date: 2023-08-12
 featured: true
 share: false
 image:
-  src: "2.gif"     # ← 指向你新上传的动图
+  src: "3.gif"     # ← 改成 3.gif
 ---
 
 <div class="section-card">
