@@ -21,12 +21,9 @@ image:
 <div class="section-card">
   <div class="section-title">📚 Publication</div>
   <p class="pub-item">
-    Zha, S.; Qiao, Y.; <span class="pub-authors">Hu, Q.</span>; Li, Z.; Gong, J.; Xu, Y.
-    “Designing Child-Centric AI Learning Environments: Insights from an LLM-powered Creative Project-Based Learning Study.”
-    <span class="subtle">Accepted (in press) in</span> <span class="pub-venue">International Journal of Human–Computer Studies (IJHCS)</span>.
-  </p>
-  <p class="pub-item subtle">
-    Preprint: <a href="https://doi.org/10.48550/arXiv.2403.16159" target="_blank">https://doi.org/10.48550/arXiv.2403.16159</a>.
+    Zha, S., Qiao, Y., <span class="pub-authors">Hu, Q.</span>, Li, Z., Gong, J., &amp; Xu, Y. (2025). 
+    Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study. 
+    <span class="pub-venue">International Journal of Human-Computer Studies</span>, 103602.
   </p>
 </div>
 
