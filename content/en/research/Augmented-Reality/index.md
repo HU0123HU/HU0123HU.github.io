@@ -2,13 +2,13 @@
 title: "Augmented Reality Exergame for Promoting Learning Outcomes in Sports"
 summary: "Exergame Design, Augmented Reality, Immersive Learning"
 date: 2023-08-05
+weight: 1        # ← 新加这一行，数字越小越靠前
 featured: true
 share: false
-# 不要加 draft:true
-# 建议显式指定卡片封面（你文件夹里已有 featured.gif 就填它）
 image:
   src: "featured.gif"
 ---
+
 
 <div class="section-card">
   <div class="section-title">🧩 Overview</div>
