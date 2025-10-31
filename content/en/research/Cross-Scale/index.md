@@ -1,7 +1,7 @@
 ---
 title: "Cross-Scale Gamified Learning System for Circuit Education"
 summary: "Game-based Learning, Embodied Interaction, STEM Education, Mixed Reality"
-date: "2023-08-12"
+date: "2025-08-12"
 featured: true
 share: false
 image:
