@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Qingyu Hu 胡清宇 # Website name
+title: Qingyu Hu (Quinn) 胡清宇 # Website name
 baseURL: 'https://hu0123hu.github.io/' # Website URL
 
 ############################
