@@ -27,3 +27,17 @@ design:
   view: research_item_card
   list_css_class: "research-list-wrap"
 ---
+
+<style>
+  /* 彻底禁用 Demos 版块的卡片交互与悬浮特效 */
+  #demos a {
+    pointer-events: none !important; /* 禁用点击动作，鼠标不会变成小手 */
+  }
+  #demos a:hover {
+    text-decoration: none !important; /* 取消标题悬浮时的下划线 */
+  }
+  #demos img {
+    transition: none !important; /* 关闭图片的动态过渡效果 */
+    transform: none !important;  /* 禁止图片悬浮放大 */
+  }
+</style>
