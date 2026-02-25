@@ -14,8 +14,6 @@ weight: 40
 title: Publications
 subtitle: ""
 
-
-
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -24,71 +22,44 @@ design:
   #   4 = Citation (publication only)
   view: 2
 
-
-
-
-
 pubs_list:
   
-  - title: "‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game"
-    authors: "**Hu, Q**. & Li, H. 2025"
-    journal: "Accepted at HCII 2025 – Human-Computer Interaction International Conference, Late Breaking, Springer CCIS (to appear)."
-    links:
+  - title: "Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study"
+    authors: "Zha, S., Qiao, Y., **Hu, Q.**, Li, Z., Gong, J., & Xu, Y. (2025)"
+    journal: "International Journal of Human-Computer Studies, 103602. (JCR Q1, IF : 5.1)"
 
-  
-  
-  - title: "Social bots that bring a strong presence to remote participants in hybrid meetings"
-    authors: "Ma, S., **Hu, Q**., Chen, Y., Zhao, Z., & Li, H. (2023)"
-    journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI '23). Association for Computing Machinery, New York, NY, USA, 853–856"
+  - title: "Designing a Cross-scale Gamified Learning System for Circuit Education: Bridging Macro and Micro Cognitive Scales"
+    authors: "**Hu, Q.**, Li, Z., & Chen, L. (2025)"
+    journal: "In Proceedings of IASDR 2025. Taipei, China."
+
+  - title: "‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game"
+    authors: "**Hu, Q.** & Li, Z. (2025)"
+    journal: "HCII 2025 – Human-Computer Interaction International Conference, Late Breaking, Springer CCIS."
+
+  - title: "Do Virtual Coaches Teach Differently? A Mixed-Reality Study of Linear, Nonlinear, and Differential Pedagogies for Motor Skill Learning"
+    authors: "**Hu, Q.**, Wu, H., Cao, H., & Hua, M. (2025)"
+    journal: "IEEE Transactions on Learning Technologies (TLT) — under review."
+
+  - title: "Social Bots that Bring a Strong Presence to Remote Participants in Hybrid Meetings"
+    authors: "Ma, S., **Hu, Q.**, Chen, Y., Zhao, Z., & Li, H. (2023, March)"
+    journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 853-856)."
     links:
       - name: Doi
         url: https://doi.org/10.1145/3568294.3580200
 
-  
-  
-  
-  - title: "Thermaterial: Program ambient heat transfer behaviors on objects through fluidic composites"
-    authors: "Yu, T., Fan, Y., Zhang, Z., **Hu, Q**., Xu, W., Mi, H., & Mueller, S. (2024)"
-    journal: "In Extended Abstracts of the 2024 CHI Conference on Human Factors in Computing Systems (CHI EA '24). Association for Computing Machinery, New York, NY, USA, 1–8"
+  - title: "Thermaterial: Program Ambient Heat Transfer Behaviors on Objects through Fluidic Composites"
+    authors: "Yu, T., Fan, Y., Zhang, Z., **Hu, Q.**, Xu, W., Mi, H., & Mueller, S. (2024, May)"
+    journal: "In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-8)."
     links:
       - name: Doi
         url: https://doi.org/10.1145/3613905.3650747
-  
-  
-  
-  
-  - title: "An interdisciplinary design framework for creative collaboration"
-    authors: "Zha, S., Zhao, D., Li, M., Gong, W., **Hu, Q**., & Li, Z. (2023)"
-    journal: "In D. De Sainz Molestina, L. Galluzzo, F. Rizzo, & D. Spallazzo (Eds.), IASDR 2023: Life-Changing Design, 9-13 October, Milan, Italy"
-    links:
-      - name: Doi
-        url: https://doi.org/10.21606/iasdr.2023.550
 
-  
-  
-  
-  
-  
   - title: "Buzzo or Eureka--Robot that Makes Remote Participants Feel More Presence in Hybrid Discussions"
-    authors: "Zhao, Z., Chen, Y., **Hu, Q**., Ma, S., Li, H., Guo, Y., & Mi, H. (2023, March)"
-    journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 323-327)"
-    links: 
+    authors: "Zhao, Z., Chen, Y., **Hu, Q.**, Ma, S., Li, H., Guo, Y., & Mi, H. (2023, March)"
+    journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 323-327)."
 
-  
-  
-  
-  
-  
-  - title: "Designing Child-Centric AI Learning Environments: Insights from LLM-Enhanced Creative Project-Based Learning"
-    authors: "Zha, S., Qiao, Y., **Hu, Q**., Li, Z., Xu, Y. 2024"
-    journal: "Under review at International Journal of Human-Computer Studies. arXiv:2403.16159"
-    links:
+  - title: "Multiscale Cognitive Design and Research of Gamified Learning Systems for Fundamental Circuit Education"
+    authors: "Master's Thesis: **Hu, Q.** (2025)"
+    journal: "Master's Thesis, Tsinghua University."
 
-   
-  
-  
-  
-  
-  
-  
 ---
