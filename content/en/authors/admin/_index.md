@@ -74,8 +74,10 @@ title:
 
 ---
 
-I am a master’s student in **Industrial Design** at **Tsinghua University**, where I explore how **interactive systems**, **game-based learning**, and **mixed reality** can be leveraged to support knowledge construction, emotional engagement, and behavior change. My work is grounded in a deep interest in **embodied interaction**, **educational technology**, and **human-centered design** for emerging technologies—particularly within the domains of **science learning**, **child-AI interaction**, and **digital health**.
+I am a master's student in **Industrial Design** at **Tsinghua University**, advised by **Prof. Luqi Chen**. I also previously served as a Research Intern at **The Future Laboratory, Tsinghua University**. 
 
-I have published in leading venues such as **CHI**, **HRI**, **HCII**, and **IASDR**, and have received multiple academic honors, including the **2025 Beijing Outstanding Graduate (Top 5%)**, **2024 Tsinghua University Outstanding First-Class Scholarship**, and the **2020 National Scholarship (Top 1%)**. My interdisciplinary background spans creative product design, physical computing, and immersive interaction, and I aim to continue pushing the boundaries of how design can translate abstract systems into meaningful and accessible experiences.
+My research focuses on **Human-Computer Interaction (HCI)** and **Embodied Interaction**, specifically exploring **Mixed Reality (MR)**, **exergames**, and **serious games**. I investigate how immersive technologies and movement-based interactions can be leveraged to support physical training and education. By blending hardware prototyping with empirical research, my work translates abstract systems into accessible, human-centered experiences.
 
-I am currently seeking **Ph.D. opportunities** starting in **Fall 2026**, focusing on the intersection of **design, interaction, and cognition** in educational or health-related contexts.
+I have published in leading venues such as **IJHCS**, **CHI EA**, **HRI**, **HCII**, and **IASDR** (Top-tier Design Conference). My interdisciplinary work has also been recognized with multiple honors, including the **2025 Beijing Outstanding Graduate (Top 5%)**, the **2025 iF DESIGN AWARD**, and the **2020 National Scholarship (Top 1%)**.
+
+I am currently seeking **Ph.D. opportunities starting in Fall 2026**, aiming to advance the research of immersive and movement-based technologies to create engaging and human-centered experiences.
