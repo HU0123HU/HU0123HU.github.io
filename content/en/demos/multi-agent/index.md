@@ -4,7 +4,15 @@ summary: "Contributed to the system-level design and frontend integration of a D
 date: "2026-02-24"
 featured: true
 share: false
-external_link: "javascript:void(0);"
+
+# 魔法代码 1：强制外部链接为空指令，使得点击不会发生页面跳转
+external_link: "javascript:void(0);" 
+
+# 魔法代码 2：告诉系统不要为这个项目生成独立的详情网页
+_build:
+  render: never
+  list: always
+
 image:
   filename: "featured.gif"
   src: "featured.gif"
