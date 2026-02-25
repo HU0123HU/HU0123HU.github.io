@@ -5,15 +5,17 @@ date: "2026-02-24"
 featured: true
 share: false
 
-# 魔法代码 1：强制外部链接为空指令，使得点击不会发生页面跳转
-external_link: "javascript:void(0);" 
+# 魔法代码升级：将链接指向当前版块的 ID。
+# 这样点击时，页面只会原地锚定，视觉上就像“被锁死”了一样，不会发生任何跳转。
+external_link: "#demos"
 
-# 魔法代码 2：告诉系统不要为这个项目生成独立的详情网页
+# 告诉系统不要生成独立的详情页
 _build:
   render: never
   list: always
 
+# 更新为静态图片格式
 image:
-  filename: "featured.gif"
-  src: "featured.gif"
+  filename: "featured.png"
+  src: "featured.png"
 ---
