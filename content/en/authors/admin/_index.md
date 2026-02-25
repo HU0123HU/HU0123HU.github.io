@@ -26,10 +26,10 @@ highlight_name: true
 
 
 interests:
-  - "Game-based Learning"
-  - "Embodied Interaction"
-  - "Mixed Reality in Education"
-  - "Human-Computer Interaction"
+- Human-Computer Interaction
+- Embodied Interaction
+- Mixed Reality (MR)
+- Exergames & Serious Games
 
  
 organizations:
