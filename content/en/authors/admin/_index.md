@@ -74,7 +74,7 @@ title:
 
 ---
 
-I am a master's student in **Industrial Design** at **Tsinghua University**, advised by **Prof. Luqi Chen**. I also previously served as a Research Intern at **The Future Laboratory, Tsinghua University**. 
+I am a master's student in Industrial Design at Tsinghua University, advised by **Prof. Luqi Chen**. Previously, I served as a Research Intern at **The Future Laboratory, Tsinghua University**, working under the guidance of **Prof. Yingqing Xu**.
 
 My research focuses on **Human-Computer Interaction (HCI)** and **Embodied Interaction**, specifically exploring **Mixed Reality (MR)**, **exergames**, and **serious games**. I investigate how immersive technologies and movement-based interactions can be leveraged to support physical training and education. By blending hardware prototyping with empirical research, my work translates abstract systems into accessible, human-centered experiences.
 
