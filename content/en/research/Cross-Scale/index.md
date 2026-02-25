@@ -25,12 +25,17 @@ image:
   <div class="section-title">📚 Publication</div>
 
   <p class="pub-item">
-    <span class="pub-authors">Hu, Q. &amp; Li, Z. (2025).</span> “‘Seeing’ Electricity: Exploring Middle School Students’ Experiences 
+    <span class="pub-authors"><strong>Hu, Q.</strong>, Li, Z., &amp; Chen, L. (2025).</span> "Designing a Cross-scale Gamified Learning System for Circuit Education: Bridging Macro and Micro Cognitive Scales." 
+    In <span class="pub-venue"><strong>Proceedings of IASDR 2025</strong></span>. Taipei, China.
+  </p>
+
+  <p class="pub-item">
+    <span class="pub-authors"><strong>Hu, Q.</strong> &amp; Li, Z. (2025).</span> “‘Seeing’ Electricity: Exploring Middle School Students’ Experiences 
     in a Kinect-based Sound Visualization Circuit Learning Game.” Accepted for HCII 2025 (Late Breaking track), 
     to be published in <span class="pub-venue">Springer CCIS Proceedings</span>.
   </p>
 
   <p class="pub-item subtle">
-    Full version in preparation for CHI 2026 submission.
+    <em>Full version is currently <strong>under review at IJHCI</strong>.</em>
   </p>
 </div>
