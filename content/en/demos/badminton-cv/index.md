@@ -6,6 +6,6 @@ featured: true
 share: false
 external_link: "javascript:void(0);"
 image:
-  filename: "featured.gif"
-  src: "featured.gif"
+  filename: "featured3.gif"
+  src: "featured3.gif"
 ---
