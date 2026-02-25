@@ -30,9 +30,8 @@ image:
   </p>
 
   <p class="pub-item">
-    <span class="pub-authors"><strong>Hu, Q.</strong> &amp; Li, Z. (2025).</span> “‘Seeing’ Electricity: Exploring Middle School Students’ Experiences 
-    in a Kinect-based Sound Visualization Circuit Learning Game.” Accepted for HCII 2025 (Late Breaking track), 
-    to be published in <span class="pub-venue">Springer CCIS Proceedings</span>.
+    <span class="pub-authors"><strong>Hu, Q.</strong> &amp; Li, Z. (2025).</span> “‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game.” 
+    <span class="pub-venue">HCII 2025 – Human-Computer Interaction International Conference, Late Breaking, Springer CCIS</span>.
   </p>
 
   <p class="pub-item subtle">
