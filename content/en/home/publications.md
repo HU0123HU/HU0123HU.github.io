@@ -27,6 +27,9 @@ pubs_list:
   - title: "Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study"
     authors: "Zha, S., Qiao, Y., **Hu, Q.**, Li, Z., Gong, J., & Xu, Y. (2025)"
     journal: "International Journal of Human-Computer Studies, 103602. (JCR Q1, IF : 5.1)"
+    links:
+      - name: Doi
+        url: https://doi.org/10.1016/j.ijhcs.2025.103602
 
   - title: "Designing a Cross-scale Gamified Learning System for Circuit Education: Bridging Macro and Micro Cognitive Scales"
     authors: "**Hu, Q.**, Li, Z., & Chen, L. (2025)"
@@ -57,6 +60,9 @@ pubs_list:
   - title: "Buzzo or Eureka--Robot that Makes Remote Participants Feel More Presence in Hybrid Discussions"
     authors: "Zhao, Z., Chen, Y., **Hu, Q.**, Ma, S., Li, H., Guo, Y., & Mi, H. (2023, March)"
     journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 323-327)."
+    links:
+      - name: Doi
+        url: https://doi.org/10.1145/3568294.3580098
 
   - title: "Multiscale Cognitive Design and Research of Gamified Learning Systems for Fundamental Circuit Education"
     authors: "Master's Thesis: **Hu, Q.** (2025)"
