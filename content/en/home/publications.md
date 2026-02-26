@@ -1,29 +1,9 @@
----
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: publications
-
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Publications
-subtitle: ""
-
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
-
 pubs_list:
-  
+
+  - title: "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"
+    authors: "Li, Z., **Hu, Q.**, & Ren, X. (2026)"
+    journal: "17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026), Istanbul, Türkiye. (Accepted, Oral Presentation)"
+
   - title: "Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study"
     authors: "Zha, S., Qiao, Y., **Hu, Q.**, Li, Z., Gong, J., & Xu, Y. (2025)"
     journal: "International Journal of Human-Computer Studies, 103602. (JCR Q1, IF : 5.1)"
@@ -38,10 +18,6 @@ pubs_list:
   - title: "‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game"
     authors: "**Hu, Q.** & Li, Z. (2025)"
     journal: "HCII 2025 – Human-Computer Interaction International Conference, Late Breaking, Springer CCIS."
-
-    - title: "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"
-    authors: "Li, Z., **Hu, Q.**, & Ren, X. (2026)"
-    journal: "17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026), Istanbul, Türkiye. (Accepted, Oral Presentation)"
 
   - title: "Do Virtual Coaches Teach Differently? A Mixed-Reality Study of Linear, Nonlinear, and Differential Pedagogies for Motor Skill Learning"
     authors: "**Hu, Q.**, Wu, H., Cao, H., & Hua, M. (2025)"
@@ -71,22 +47,3 @@ pubs_list:
   - title: "Multiscale Cognitive Design and Research of Gamified Learning Systems for Fundamental Circuit Education"
     authors: "Master's Thesis: **Hu, Q.** (2025)"
     journal: "Master's Thesis, Tsinghua University."
-
----
-
-<style>
-  /* 精准狙击：只取消主题给文章标题（Title）强加的默认粗体效果 */
-  #publications .article-title,
-  #publications .article-title a,
-  #publications h3,
-  #publications h3 a {
-    font-weight: normal !important;
-  }
-  
-  /* 确保你的名字能被正常加粗，提升对比度 */
-  #publications strong,
-  #publications b {
-    font-weight: 800 !important;
-    color: #000 !important; 
-  }
-</style>
