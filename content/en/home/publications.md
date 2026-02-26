@@ -39,6 +39,10 @@ pubs_list:
     authors: "**Hu, Q.** & Li, Z. (2025)"
     journal: "HCII 2025 – Human-Computer Interaction International Conference, Late Breaking, Springer CCIS."
 
+    - title: "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"
+    authors: "Li, Z., **Hu, Q.**, & Ren, X. (2026)"
+    journal: "17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026), Istanbul, Türkiye. (Accepted, Oral Presentation)"
+
   - title: "Do Virtual Coaches Teach Differently? A Mixed-Reality Study of Linear, Nonlinear, and Differential Pedagogies for Motor Skill Learning"
     authors: "**Hu, Q.**, Wu, H., Cao, H., & Hua, M. (2025)"
     journal: "IEEE Transactions on Learning Technologies (TLT) — under review."
