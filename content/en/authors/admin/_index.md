@@ -74,24 +74,26 @@ title:
 
 ---
 
-I am a master's student in Industrial Design at Tsinghua University, advised by Prof. **Luqi Chen**. Previously, I served as a Research Intern at <a href="https://thfl.tsinghua.edu.cn/en/index.htm" class="normal-link">The Future Laboratory, Tsinghua University</a>, working under the guidance of <a href="https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm" class="normal-link">Prof. Yingqing Xu</a>.
+<div class="custom-bio">
 
-My research focuses on **Human-Computer Interaction (HCI)** and **Embodied Interaction**, specifically exploring **Mixed Reality (MR)**, **exergames**, and **serious games**. I investigate how immersive technologies and movement-based interactions can be leveraged to support physical training and education. By blending hardware prototyping with empirical research, my work translates abstract systems into accessible, human-centered experiences.
+I am a master's student in **Industrial Design** at **Tsinghua University**, advised by Prof. **Luqi Chen**. Previously, I served as a Research Intern at <a href="https://thfl.tsinghua.edu.cn/en/index.htm" class="normal-link">The Future Laboratory, Tsinghua University</a>, working under the guidance of <a href="https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm" class="normal-link">Prof. Yingqing Xu</a>.
+
+My research focuses on Human-Computer Interaction (HCI) and Embodied Interaction, specifically exploring **Mixed Reality (MR)**, **exergames**, and **serious games**. I investigate how immersive technologies and movement-based interactions can be leveraged to support physical training and education. By blending hardware prototyping with empirical research, my work translates abstract systems into accessible, human-centered experiences.
 
 I have published in leading venues such as **IJHCS**, **CHI EA**, **HRI**, **HCII**, and **IASDR** (Top-tier Design Conference). My interdisciplinary work has also been recognized with multiple honors, including the **2025 Beijing Outstanding Graduate (Top 5%)**, the **2025 iF DESIGN AWARD**, and the **2020 National Scholarship (Top 1%)**.
 
 I am currently seeking **Ph.D. opportunities starting in Fall 2026**, aiming to advance the research of immersive and movement-based technologies to create engaging and human-centered experiences.
 
+</div>
+
 <style>
+  /* 强制缩小自我介绍正文的字号 */
+  .custom-bio p {
+    font-size: 0.95rem !important; /* 如果觉得还不够小，可以把 0.95 改成 0.9 或者 14px */
+    line-height: 1.6 !important; /* 保持阅读的舒适行距 */
+  }
+
   /* 强制覆盖主题的红色超链接，改为低调学术风 */
   .normal-link {
     color: inherit !important; /* 颜色继承周围的正文颜色 */
-    text-decoration: underline !important; /* 强制显示下划线 */
-    font-weight: normal !important; /* 强制不加粗 */
-    text-underline-offset: 3px; /* 让下划线稍微往下移一点，更好看 */
-  }
-  .normal-link:hover {
-    color: inherit !important;
-    opacity: 0.6; /* 鼠标放上去时字体稍微变淡，作为可点击的反馈 */
-  }
-</style>
+    text-decoration:
