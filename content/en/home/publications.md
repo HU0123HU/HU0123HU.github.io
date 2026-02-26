@@ -25,62 +25,64 @@ design:
 pubs_list:
   
   - title: "Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study"
-    authors: "Zha, S., Qiao, Y., <span class='author-highlight'>Hu, Q.</span>, Li, Z., Gong, J., & Xu, Y. (2025)"
+    authors: "Zha, S., Qiao, Y., **Hu, Q.**, Li, Z., Gong, J., & Xu, Y. (2025)"
     journal: "International Journal of Human-Computer Studies, 103602. (JCR Q1, IF : 5.1)"
     links:
       - name: Doi
         url: https://doi.org/10.1016/j.ijhcs.2025.103602
 
   - title: "Designing a Cross-scale Gamified Learning System for Circuit Education: Bridging Macro and Micro Cognitive Scales"
-    authors: "<span class='author-highlight'>Hu, Q.</span>, Li, Z., & Chen, L. (2025)"
+    authors: "**Hu, Q.**, Li, Z., & Chen, L. (2025)"
     journal: "In Proceedings of IASDR 2025. Taipei, China."
 
   - title: "‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game"
-    authors: "<span class='author-highlight'>Hu, Q.</span> & Li, Z. (2025)"
+    authors: "**Hu, Q.** & Li, Z. (2025)"
     journal: "HCII 2025 – Human-Computer Interaction International Conference, Late Breaking, Springer CCIS."
 
   - title: "Do Virtual Coaches Teach Differently? A Mixed-Reality Study of Linear, Nonlinear, and Differential Pedagogies for Motor Skill Learning"
-    authors: "<span class='author-highlight'>Hu, Q.</span>, Wu, H., Cao, H., & Hua, M. (2025)"
+    authors: "**Hu, Q.**, Wu, H., Cao, H., & Hua, M. (2025)"
     journal: "IEEE Transactions on Learning Technologies (TLT) — under review."
 
   - title: "Social Bots that Bring a Strong Presence to Remote Participants in Hybrid Meetings"
-    authors: "Ma, S., <span class='author-highlight'>Hu, Q.</span>, Chen, Y., Zhao, Z., & Li, H. (2023, March)"
+    authors: "Ma, S., **Hu, Q.**, Chen, Y., Zhao, Z., & Li, H. (2023, March)"
     journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 853-856)."
     links:
       - name: Doi
         url: https://doi.org/10.1145/3568294.3580200
 
   - title: "Thermaterial: Program Ambient Heat Transfer Behaviors on Objects through Fluidic Composites"
-    authors: "Yu, T., Fan, Y., Zhang, Z., <span class='author-highlight'>Hu, Q.</span>, Xu, W., Mi, H., & Mueller, S. (2024, May)"
+    authors: "Yu, T., Fan, Y., Zhang, Z., **Hu, Q.**, Xu, W., Mi, H., & Mueller, S. (2024, May)"
     journal: "In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-8)."
     links:
       - name: Doi
         url: https://doi.org/10.1145/3613905.3650747
 
   - title: "Buzzo or Eureka--Robot that Makes Remote Participants Feel More Presence in Hybrid Discussions"
-    authors: "Zhao, Z., Chen, Y., <span class='author-highlight'>Hu, Q.</span>, Ma, S., Li, H., Guo, Y., & Mi, H. (2023, March)"
+    authors: "Zhao, Z., Chen, Y., **Hu, Q.**, Ma, S., Li, H., Guo, Y., & Mi, H. (2023, March)"
     journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 323-327)."
     links:
       - name: Doi
         url: https://doi.org/10.1145/3568294.3580098
 
   - title: "Multiscale Cognitive Design and Research of Gamified Learning Systems for Fundamental Circuit Education"
-    authors: "Master's Thesis: <span class='author-highlight'>Hu, Q.</span> (2025)"
+    authors: "Master's Thesis: **Hu, Q.** (2025)"
     journal: "Master's Thesis, Tsinghua University."
 
 ---
 
 <style>
-  /* 强制剥夺主题默认给文章标题和该版块加上的粗体效果 */
-  #publications strong, 
-  #publications b,
+  /* 精准狙击：只取消主题给文章标题（Title）强加的默认粗体效果 */
   #publications .article-title,
-  #publications .title {
+  #publications .article-title a,
+  #publications h3,
+  #publications h3 a {
     font-weight: normal !important;
   }
   
-  /* 单独为你自己的名字赋予最高权重的加粗 */
-  .author-highlight {
+  /* 确保你的名字能被正常加粗，提升对比度 */
+  #publications strong,
+  #publications b {
     font-weight: 800 !important;
+    color: #000 !important; 
   }
 </style>
