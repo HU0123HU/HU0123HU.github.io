@@ -14,9 +14,6 @@ design:
   columns: "2"
 ---
 
-- "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"  
-  Li, Z., **Hu, Q.**, & Ren, X. (2026). *17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026)*, Istanbul, Türkiye. (Accepted, Oral Presentation)
-
 - "Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study"  
   Zha, S., Qiao, Y., **Hu, Q.**, Li, Z., Gong, J., & Xu, Y. (2025). *International Journal of Human-Computer Studies*, 103602. (JCR Q1, IF : 5.1) [[Doi]](https://doi.org/10.1016/j.ijhcs.2025.103602)
 
@@ -28,6 +25,9 @@ design:
 
 - "Do Virtual Coaches Teach Differently? A Mixed-Reality Study of Linear, Nonlinear, and Differential Pedagogies for Motor Skill Learning"  
   **Hu, Q.**, Wu, H., Cao, H., & Hua, M. (2025). *IEEE Transactions on Learning Technologies (TLT)* — under review.
+
+- "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"  
+  Li, Z., **Hu, Q.**, & Ren, X. (2026). *17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026)*, Istanbul, Türkiye. (Accepted, Oral Presentation)
 
 - "Social Bots that Bring a Strong Presence to Remote Participants in Hybrid Meetings"  
   Ma, S., **Hu, Q.**, Chen, Y., Zhao, Z., & Li, H. (2023, March). *In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction* (pp. 853-856). [[Doi]](https://doi.org/10.1145/3568294.3580200)
