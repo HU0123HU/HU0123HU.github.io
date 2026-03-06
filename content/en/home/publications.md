@@ -1,65 +1,42 @@
 ---
-# 这是一个 Hugo Blox (原 Wowchemy) 的标准组件配置
-widget: "blank"  # 或者 "custom"，取决于你的主题版本
+# 1. 这一部分是配置信息 (Front Matter)
+widget: "blank"
 active: true
 
-# 【关键】控制顺序：数字越小越靠前。如果想让它在“研究经历”后面，可以设为 110
+# 控制顺序：如果你希望它在 Demos 之后、Contact 之前，这个 weight 应该是合适的
 weight: 110 
 
 title: "Publications"
 subtitle: ""
 
 design:
-  # 设置为 1 保持单栏通栏显示，或者 2 开启侧边栏模式
+  # 保持 1 则是通栏显示，与你的 Contact 部分格式一致
   columns: "1"
-
-# 你的论文列表数据放在这里
-pubs_list:
-  - title: "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"
-    authors: "Li, Z., **Hu, Q.**, & Ren, X. (2026)"
-    journal: "17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026), Istanbul, Türkiye. (Accepted, Oral Presentation)"
-
-  - title: "Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study"
-    authors: "Zha, S., Qiao, Y., **Hu, Q.**, Li, Z., Gong, J., & Xu, Y. (2025)"
-    journal: "International Journal of Human-Computer Studies, 103602. (JCR Q1, IF : 5.1)"
-    links:
-      - name: Doi
-        url: https://doi.org/10.1016/j.ijhcs.2025.103602
-
-  - title: "Designing a Cross-scale Gamified Learning System for Circuit Education: Bridging Macro and Micro Cognitive Scales"
-    authors: "**Hu, Q.**, Li, Z., & Chen, L. (2025)"
-    journal: "In Proceedings of IASDR 2025. Taipei, China."
-
-  - title: "‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game"
-    authors: "**Hu, Q.** & Li, Z. (2025)"
-    journal: "HCII 2025 – Human-Computer Interaction International Conference, Late Breaking, Springer CCIS."
-
-  - title: "Do Virtual Coaches Teach Differently? A Mixed-Reality Study of Linear, Nonlinear, and Differential Pedagogies for Motor Skill Learning"
-    authors: "**Hu, Q.**, Wu, H., Cao, H., & Hua, M. (2025)"
-    journal: "IEEE Transactions on Learning Technologies (TLT) — under review."
-
-  - title: "Social Bots that Bring a Strong Presence to Remote Participants in Hybrid Meetings"
-    authors: "Ma, S., **Hu, Q.**, Chen, Y., Zhao, Z., & Li, H. (2023, March)"
-    journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 853-856)."
-    links:
-      - name: Doi
-        url: https://doi.org/10.1145/3568294.3580200
-
-  - title: "Thermaterial: Program Ambient Heat Transfer Behaviors on Objects through Fluidic Composites"
-    authors: "Yu, T., Fan, Y., Zhang, Z., **Hu, Q.**, Xu, W., Mi, H., & Mueller, S. (2024, May)"
-    journal: "In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (pp. 1-8)."
-    links:
-      - name: Doi
-        url: https://doi.org/10.1145/3613905.3650747
-
-  - title: "Buzzo or Eureka--Robot that Makes Remote Participants Feel More Presence in Hybrid Discussions"
-    authors: "Zhao, Z., Chen, Y., **Hu, Q.**, Ma, S., Li, H., Guo, Y., & Mi, H. (2023, March)"
-    journal: "In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (pp. 323-327)."
-    links:
-      - name: Doi
-        url: https://doi.org/10.1145/3568294.3580098
-
-  - title: "Multiscale Cognitive Design and Research of Gamified Learning Systems for Fundamental Circuit Education"
-    authors: "Master's Thesis: **Hu, Q.** (2025)"
-    journal: "Master's Thesis, Tsinghua University."
 ---
+
+- "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"  
+  Li, Z., **Hu, Q.**, & Ren, X. (2026). *17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026)*, Istanbul, Türkiye. (Accepted, Oral Presentation)
+
+- "Designing child-centric AI learning environments: Insights from an LLM-powered creative project-based learning study"  
+  Zha, S., Qiao, Y., **Hu, Q.**, Li, Z., Gong, J., & Xu, Y. (2025). *International Journal of Human-Computer Studies*, 103602. (JCR Q1, IF : 5.1) [[Doi]](https://doi.org/10.1016/j.ijhcs.2025.103602)
+
+- "Designing a Cross-scale Gamified Learning System for Circuit Education: Bridging Macro and Micro Cognitive Scales"  
+  **Hu, Q.**, Li, Z., & Chen, L. (2025). *In Proceedings of IASDR 2025*. Taipei, China.
+
+- "‘Seeing’ Electricity: Exploring Middle School Students’ Experiences in a Kinect-based Sound Visualization Circuit Learning Game"  
+  **Hu, Q.** & Li, Z. (2025). *HCII 2025 – Human-Computer Interaction International Conference*, Late Breaking, Springer CCIS.
+
+- "Do Virtual Coaches Teach Differently? A Mixed-Reality Study of Linear, Nonlinear, and Differential Pedagogies for Motor Skill Learning"  
+  **Hu, Q.**, Wu, H., Cao, H., & Hua, M. (2025). *IEEE Transactions on Learning Technologies (TLT)* — under review.
+
+- "Social Bots that Bring a Strong Presence to Remote Participants in Hybrid Meetings"  
+  Ma, S., **Hu, Q.**, Chen, Y., Zhao, Z., & Li, H. (2023, March). *In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction* (pp. 853-856). [[Doi]](https://doi.org/10.1145/3568294.3580200)
+
+- "Thermaterial: Program Ambient Heat Transfer Behaviors on Objects through Fluidic Composites"  
+  Yu, T., Fan, Y., Zhang, Z., **Hu, Q.**, Xu, W., Mi, H., & Mueller, S. (2024, May). *In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems* (pp. 1-8). [[Doi]](https://doi.org/10.1145/3613905.3650747)
+
+- "Buzzo or Eureka--Robot that Makes Remote Participants Feel More Presence in Hybrid Discussions"  
+  Zhao, Z., Chen, Y., **Hu, Q.**, Ma, S., Li, H., Guo, Y., & Mi, H. (2023, March). *In Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction* (pp. 323-327). [[Doi]](https://doi.org/10.1145/3568294.3580098)
+
+- "Multiscale Cognitive Design and Research of Gamified Learning Systems for Fundamental Circuit Education"  
+  Master's Thesis: **Hu, Q.** (2025). *Master's Thesis, Tsinghua University*.
