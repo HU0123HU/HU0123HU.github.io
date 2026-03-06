@@ -8,8 +8,8 @@ headless: true
 # 设为 25，正好排在 Research (20) 和 Publications (30) 之间
 weight: 25
 
-title: Demos & Projects
-subtitle: "Fun prototypes and engineering experiments" # 如果不需要副标题可以留空: ""
+title: Demos
+subtitle: "Hands-on Prototypes" # 如果不需要副标题可以留空: ""
 
 content:
   # 关键修改：告诉系统去寻找名为 'demos' 的内容文件夹
