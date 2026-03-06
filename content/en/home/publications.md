@@ -1,5 +1,20 @@
-pubs_list:
+---
+# 这是一个 Hugo Blox (原 Wowchemy) 的标准组件配置
+widget: "blank"  # 或者 "custom"，取决于你的主题版本
+active: true
 
+# 【关键】控制顺序：数字越小越靠前。如果想让它在“研究经历”后面，可以设为 110
+weight: 110 
+
+title: "Publications"
+subtitle: ""
+
+design:
+  # 设置为 1 保持单栏通栏显示，或者 2 开启侧边栏模式
+  columns: "1"
+
+# 你的论文列表数据放在这里
+pubs_list:
   - title: "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"
     authors: "Li, Z., **Hu, Q.**, & Ren, X. (2026)"
     journal: "17th International Conference on Applied Human Factors and Ergonomics (AHFE 2026), Istanbul, Türkiye. (Accepted, Oral Presentation)"
@@ -47,3 +62,4 @@ pubs_list:
   - title: "Multiscale Cognitive Design and Research of Gamified Learning Systems for Fundamental Circuit Education"
     authors: "Master's Thesis: **Hu, Q.** (2025)"
     journal: "Master's Thesis, Tsinghua University."
+---
