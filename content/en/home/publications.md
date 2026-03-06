@@ -11,7 +11,7 @@ subtitle: ""
 
 design:
   # 保持 1 则是通栏显示，与你的 Contact 部分格式一致
-  columns: "1"
+  columns: "2"
 ---
 
 - "Lumora Cards: An Annotated Portfolios-Based Design Tool to Support Novice Designers in Integrating Smart Materials into Interactive Physicalization"  
